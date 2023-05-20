@@ -1,9 +1,8 @@
 tensorflow
 fastapi
 uvicorn
-python
 python-multipart
-pillow
+Pillow
 tensorflow-serving-api
 matplotlib
 numpy

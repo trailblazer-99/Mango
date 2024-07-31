@@ -1,8 +1,8 @@
-tensorflow 2.11.1
+tensorflow
 fastapi
 uvicorn
 python-multipart
 Pillow
-tensorflow-serving-api 2.11.1
+tensorflow-serving-api
 matplotlib
 numpy
